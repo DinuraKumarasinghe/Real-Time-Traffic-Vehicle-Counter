@@ -17,9 +17,7 @@ This project implements a real-time vehicle counting system using the YOLOv8 obj
 
 ## Demo
 
-![Vehicle Counting Demo](demo.gif)  
-*(Add your demo gif or screenshot here)*
-
+https://github.com/user-attachments/assets/8be50b96-1b48-41d0-902b-ef5c81cfa1cd
 ---
 
 ## Requirements
